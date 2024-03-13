@@ -21,7 +21,7 @@ First, you will need to `clone` or `fork` the repository into your Github accoun
 <img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg" alt="Fork on GitHub" width='450'>
 
 ```
-https://github.com/todaycodemaster/NFTProject.git
+https://github.com/hi-zeus/NFTProject
 ```
 
 ### Installing
