@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "NFT Gallery",
   "author": "",
+  "engines": { "node": "20.x" },
   "homepage": ".",
   "license": "MIT",
   "dependencies": {
