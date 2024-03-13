@@ -4,9 +4,6 @@
   "description": "NFT Gallery",
   "author": "",
   "homepage": ".",
-  "engines": {
-    "node": "14.17.3"
-  },
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.0.2",
